@@ -1,3 +1,14 @@
+/*
+This program allows the user to manage a linked list with ease. It provides the following functionalities:
+
+1. **Insert**: Takes an integer input from the user and inserts it at the beginning of the linked list, making it the first node.
+2. **Delete First Node**: Removes the element at the first node when called, ensuring efficient deletion.
+3. **Delete Entire List**: Clears all nodes in the linked list, resulting in an empty list.
+
+These functions facilitate basic linked list operations, ideal for educational purposes or simple data structure manipulations.
+*/
+
+
 #include "sll.h"
 int main()
 {

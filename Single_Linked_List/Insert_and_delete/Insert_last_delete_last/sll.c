@@ -1,3 +1,13 @@
+/*
+This program allows the user to manage a linked list with ease. It provides the following functionalities:
+
+1. **Insert**: Takes an integer input from the user and inserts it at the end of the linked list, making it the last node.
+2. **Delete Last Node**: Removes the element at the last node when called, ensuring efficient deletion.
+3. **Delete Entire List**: Clears all nodes in the linked list, resulting in an empty list.
+
+These functions facilitate basic linked list operations, ideal for educational purposes or simple data structure manipulations.
+*/
+
 #include "sll.h"
 int main()
 {
@@ -58,7 +68,7 @@ int main()
 				}
 				break;
 			case 5:
-				/* print list function call*/
+				//  print list function call
 				print_list(head);
 					break;
 			case 6:
