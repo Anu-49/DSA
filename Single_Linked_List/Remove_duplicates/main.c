@@ -1,4 +1,7 @@
-
+/*
+The program allows the user to remove the duplicate elements stored in the linked list.
+Can insert new data at the last node and remove duplictes if present.
+*/
 #include "sll.h"
 
 int main()

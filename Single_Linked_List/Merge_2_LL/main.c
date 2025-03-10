@@ -1,3 +1,9 @@
+/*
+Author: ANU
+The process of merging two linked lists is implemented in this code.
+Operations: Insert element at last, sort the lists, merge lists, print list.
+*/
+
 #include "sll.h"
 
 int main()

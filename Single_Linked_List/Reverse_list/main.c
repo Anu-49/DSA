@@ -1,4 +1,7 @@
-
+/*
+The user can reverse a linked list by using this program.
+The reversing LL is implemented using iterative method and recursive method.
+*/
 #include "sll.h"
 
 int main()

@@ -1,4 +1,11 @@
-
+/*
+Author: Anusha C
+The code is implemented to fetch the middle node data and also to fetch the nth last node data
+Functions: 
+insert_at_last -  insert any new data to the linked list at the last node
+find_mid - find the middle node and the data
+get_nth_last - retrives from the last nth node data node of the list
+*/
 #include "sll.h"
 
 int main()

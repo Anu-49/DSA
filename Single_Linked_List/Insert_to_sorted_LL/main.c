@@ -1,4 +1,12 @@
-
+/*
+Author: Anusha C
+The program implements to insert a new data to a sorted linked list.
+Also can create a loop or find the loop if already present in the linked list.(Kinda finding if an circular linked list exists or not if last node is pointing to the first node)
+OPERATIONS/Functions performed:
+Insert_sorted - insert data to a sorted linked list
+Find_loop - checks if a loop is present in the linked list or not
+Create_loop - a function to create loop by assigning any of the node address to the last node of the list instead of NULL
+*/
 #include "sll.h"
 
 int main()

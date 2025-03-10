@@ -1,4 +1,6 @@
-
+/*
+The user can sort the LL using this program.
+*/
 #include "sll.h"
 
 int main()
